@@ -71,7 +71,7 @@ Microservice Architecture and System Design with Python & Kubernetes that conver
 - MongoDB and MySQL Databases
 - FFmpeg Library
 - Python 3.12
-  ```
+---
 
 ## File Structure
 ```
