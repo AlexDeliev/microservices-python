@@ -63,7 +63,12 @@ Microservice Architecture and System Design with Python & Kubernetes that conver
 - Deployed to Kubernetes for scalability and fault tolerance.
 - Configurable via Helm charts and environment variables.
 
-## Installation and Setup
+## Docker Image
+The Docker image for this project is available at:
+[Docker Hub - alexdeliev/auth](https://hub.docker.com/r/alexdeliev/auth)
+[Docker Hub - alexdeliev/gateway](https://hub.docker.com/r/alexdeliev/gateway)
+[Docker Hub - alexdeliev/converter](https://hub.docker.com/r/alexdeliev/converter)
+[Docker Hub - alexdeliev/notification](https://hub.docker.com/r/alexdeliev/notification)
 
 ### Prerequisites
 - Docker & Kubernetes
