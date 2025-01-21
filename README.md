@@ -57,18 +57,17 @@ Microservice Architecture and System Design with Python & Kubernetes that conver
    - Converted files are stored and made available for download.
 
 ---
+## Docker Image
+The Docker image for this project is available at:
+- [Docker Hub - alexdeliev/auth](https://hub.docker.com/r/alexdeliev/auth)
+- [Docker Hub - alexdeliev/gateway](https://hub.docker.com/r/alexdeliev/gateway)
+- [Docker Hub - alexdeliev/converter](https://hub.docker.com/r/alexdeliev/converter)
+- [Docker Hub - alexdeliev/notification](https://hub.docker.com/r/alexdeliev/notification)
 
 ### Deployment:
 - Services are containerized using Docker.
 - Deployed to Kubernetes for scalability and fault tolerance.
 - Configurable via Helm charts and environment variables.
-
-## Docker Image
-The Docker image for this project is available at:
-[Docker Hub - alexdeliev/auth](https://hub.docker.com/r/alexdeliev/auth)
-[Docker Hub - alexdeliev/gateway](https://hub.docker.com/r/alexdeliev/gateway)
-[Docker Hub - alexdeliev/converter](https://hub.docker.com/r/alexdeliev/converter)
-[Docker Hub - alexdeliev/notification](https://hub.docker.com/r/alexdeliev/notification)
 
 ### Prerequisites
 - Docker & Kubernetes
